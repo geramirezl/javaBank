@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("Hello Java Bank ATM!");
+        System.out.println("Hello Java Bank ATM! version control with GIT");
     }
 }
